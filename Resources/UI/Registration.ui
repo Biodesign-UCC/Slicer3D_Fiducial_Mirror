@@ -99,6 +99,9 @@
         <property name="hideChildNodeTypes">
          <stringlist notr="true"/>
         </property>
+        <property name="noneEnabled">
+         <bool>true</bool>
+        </property>
         <property name="addEnabled">
          <bool>false</bool>
         </property>
@@ -125,6 +128,9 @@
         </property>
         <property name="hideChildNodeTypes">
          <stringlist notr="true"/>
+        </property>
+        <property name="noneEnabled">
+         <bool>true</bool>
         </property>
         <property name="addEnabled">
          <bool>false</bool>
@@ -153,6 +159,9 @@
         <property name="hideChildNodeTypes">
          <stringlist notr="true"/>
         </property>
+        <property name="noneEnabled">
+         <bool>true</bool>
+        </property>
         <property name="addEnabled">
          <bool>false</bool>
         </property>
@@ -179,6 +188,9 @@
         </property>
         <property name="hideChildNodeTypes">
          <stringlist notr="true"/>
+        </property>
+        <property name="noneEnabled">
+         <bool>true</bool>
         </property>
         <property name="addEnabled">
          <bool>false</bool>
